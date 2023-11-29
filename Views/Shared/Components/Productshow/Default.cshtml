@@ -1,0 +1,10 @@
+﻿@model IEnumerable<QuanLy_ShopConCung.Models.Product>
+
+<div class="row isotope-grid">
+	@foreach (var item in Model)
+	{
+				
+				<partial name="_Product" model="item"/>
+	}
+				
+</div>

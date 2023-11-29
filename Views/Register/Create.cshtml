@@ -1,0 +1,79 @@
+﻿@model QuanLy_ShopConCung.Models.User
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Modernize Free</title>
+    <link rel="shortcut icon" type="image/png" href="/Admin_sources/images/logos/favicon.png" />
+    <link rel="stylesheet" href="/Admin_sources/css/styles.min.css" />
+</head>
+
+<body>
+    <!--  Body Wrapper -->
+    <div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"
+         data-sidebar-position="fixed" data-header-position="fixed">
+        <div class="position-relative overflow-hidden radial-gradient min-vh-100 d-flex align-items-center justify-content-center" style="background-color: #f6f7fd">
+            <div class="d-flex align-items-center justify-content-center w-100">
+                <div class="row justify-content-center w-100">
+                    <div class="col-md-8 col-lg-6 col-xxl-3">
+                        <div class="card mb-0">
+                            <div class="card-body">
+                                <a href="/" class="text-nowrap logo-img text-center d-block py-3 w-100">
+                                    <img src="/images/logo.png" width="150" alt="">
+                                </a>
+                                <p class="text-center">Đăng kí</p>
+
+                                <form asp-action="Create">
+                                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                    <div class="form-group">
+                                        <label asp-for="UserName" class="control-label"></label>
+                                        <input asp-for="UserName" class="form-control" id="exampleInputtext1" aria-describedby="textHelp" placeholder="Nhập tên" />
+                                        <span asp-validation-for="UserName" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="UserEmail" class="control-label"></label>
+                                        <input asp-for="UserEmail" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nhập Email" />
+                                        <span asp-validation-for="UserEmail" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="UserPassword" class="control-label"></label>
+                                        <input asp-for="UserPassword" type="password" class="form-control" id="exampleInputPassword1" placeholder="Nhập mật khẩu" />
+                                        <span asp-validation-for="UserPassword" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group" style="display: none">
+                                        <label asp-for="UserRole" class="control-label"></label>
+                                        <input asp-for="UserRole" value="Customer" class="form-control" />
+                                        <span asp-validation-for="UserRole" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <button type="submit" class="btn btn-primary w-100 py-8 fs-4 mb-4 rounded-2">Đăng kí</button>
+                                       
+                                    </div>
+                                    <div class="d-flex align-items-center justify-content-center">
+                                        <p class="fs-4 mb-0 fw-bold">Bạn đã có tài khoản?</p>
+                                        <a class="text-primary fw-bold ms-2" href="/Account/Login">Đăng nhập</a>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/Admin_sources/libs/jquery/dist/jquery.min.js"></script>
+    <script src="/Admin_sources/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
+
+
+
+

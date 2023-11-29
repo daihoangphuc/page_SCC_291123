@@ -1,0 +1,858 @@
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\appsettings.Development.json
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\appsettings.json
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.staticwebassets.runtime.json
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.exe
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.deps.json
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.runtimeconfig.json
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.pdb
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Humanizer.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.csproj.AssemblyReference.cache
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.GeneratedMSBuildEditorConfig.editorconfig
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.AssemblyInfoInputs.cache
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.AssemblyInfo.cs
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.csproj.CoreCompileInputs.cache
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.MvcApplicationPartsAssemblyInfo.cs
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.MvcApplicationPartsAssemblyInfo.cache
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.RazorAssemblyInfo.cache
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.RazorAssemblyInfo.cs
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets\msbuild.QuanLy_ShopConCung.Microsoft.AspNetCore.StaticWebAssets.props
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets\msbuild.build.QuanLy_ShopConCung.props
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuanLy_ShopConCung.props
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuanLy_ShopConCung.props
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets.pack.json
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets.build.json
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets.development.json
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\scopedcss\bundle\QuanLy_ShopConCung.styles.css
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\scopedcss\projectbundle\QuanLy_ShopConCung.bundle.scp.css
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.csproj.CopyComplete
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\refint\QuanLy_ShopConCung.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.pdb
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.genruntimeconfig.cache
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\ref\QuanLy_ShopConCung.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\MessagePack.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Build.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Common.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\A Do_An KT Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\appsettings.Development.json
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\appsettings.json
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.staticwebassets.runtime.json
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.exe
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.deps.json
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.runtimeconfig.json
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.pdb
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Humanizer.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\MessagePack.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Build.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Common.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.csproj.AssemblyReference.cache
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.AssemblyInfoInputs.cache
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.AssemblyInfo.cs
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.csproj.CoreCompileInputs.cache
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.MvcApplicationPartsAssemblyInfo.cs
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.MvcApplicationPartsAssemblyInfo.cache
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.RazorAssemblyInfo.cache
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.RazorAssemblyInfo.cs
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets\msbuild.QuanLy_ShopConCung.Microsoft.AspNetCore.StaticWebAssets.props
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets\msbuild.build.QuanLy_ShopConCung.props
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuanLy_ShopConCung.props
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuanLy_ShopConCung.props
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets.pack.json
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets.build.json
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets.development.json
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\scopedcss\bundle\QuanLy_ShopConCung.styles.css
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\scopedcss\projectbundle\QuanLy_ShopConCung.bundle.scp.css
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.csproj.CopyComplete
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\refint\QuanLy_ShopConCung.dll
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.pdb
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.genruntimeconfig.cache
+D:\A_Do_An_KT_Mon\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\ref\QuanLy_ShopConCung.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\appsettings.Development.json
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\appsettings.json
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.staticwebassets.runtime.json
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.exe
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.deps.json
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.runtimeconfig.json
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\QuanLy_ShopConCung.pdb
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Humanizer.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\MessagePack.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Build.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Common.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.csproj.AssemblyReference.cache
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.GeneratedMSBuildEditorConfig.editorconfig
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.AssemblyInfoInputs.cache
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.AssemblyInfo.cs
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.csproj.CoreCompileInputs.cache
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.MvcApplicationPartsAssemblyInfo.cs
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.MvcApplicationPartsAssemblyInfo.cache
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.RazorAssemblyInfo.cache
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.RazorAssemblyInfo.cs
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets\msbuild.QuanLy_ShopConCung.Microsoft.AspNetCore.StaticWebAssets.props
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets\msbuild.build.QuanLy_ShopConCung.props
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuanLy_ShopConCung.props
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuanLy_ShopConCung.props
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets.pack.json
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets.build.json
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\staticwebassets.development.json
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\scopedcss\bundle\QuanLy_ShopConCung.styles.css
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\scopedcss\projectbundle\QuanLy_ShopConCung.bundle.scp.css
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.csproj.CopyComplete
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\refint\QuanLy_ShopConCung.dll
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.pdb
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\QuanLy_ShopConCung.genruntimeconfig.cache
+E:\QuanLy_ShopConCung\QuanLy_ShopConCung\obj\Debug\net6.0\ref\QuanLy_ShopConCung.dll
