@@ -228,9 +228,11 @@
 								@functions {
 									public int total()
 									{
-										if (Model != null && Model.ComputeTotalValues() != null)
+										if (Model != null && Model.ComputeTotalValues() != null && Model.Lines.Count != 0)
 										{
+											
 											return @Model.ComputeTotalValues() + 100000;
+									
 
 										}
 										else return 0;

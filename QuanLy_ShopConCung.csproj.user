@@ -19,5 +19,10 @@
     <Area_SelectedScaffolderID>AreaScaffolder</Area_SelectedScaffolderID>
     <Area_SelectedScaffolderCategoryPath>root/Common</Area_SelectedScaffolderCategoryPath>
     <WebStackScaffolding_ViewDialogWidth>650.4</WebStackScaffolding_ViewDialogWidth>
+    <NameOfLastUsedPublishProfile>E:\QuanLy_ShopConCung\QuanLy_ShopConCung\Properties\PublishProfiles\hoangphuc2419-001-site1 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <ActiveDebugProfile>QuanLy_ShopConCung</ActiveDebugProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>
