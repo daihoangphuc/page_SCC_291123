@@ -25,6 +25,13 @@ namespace QuanLy_ShopConCung.Controllers
         {
             _context = context;
         }
+        //get profile 
+
+        public IActionResult Profiles()
+        {
+            return View("Profile_Users");
+        }
+
 
         // GET: Users
         public async Task<IActionResult> Index()

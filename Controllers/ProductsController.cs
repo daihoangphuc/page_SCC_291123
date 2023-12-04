@@ -18,7 +18,7 @@ namespace QuanLy_ShopConCung.Controllers
         {
             _context = context;
         }
-
+            
         // GET: Products
         public async Task<IActionResult> Index()
         {

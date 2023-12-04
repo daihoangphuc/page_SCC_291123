@@ -1,0 +1,80 @@
+﻿@model IEnumerable<QuanLy_ShopConCung.Models.User>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+
+        }
+
+        header {
+            background-color: #fff; /* Màu hồng */
+            color: white;
+            text-align: center;
+            padding: 1em;
+
+        }
+
+        section {
+            max-width: 600px;
+            margin: 2em auto;
+            background-color: #ffe4e1; /* Màu hồng nhạt */
+            padding: 1em;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            height: 100vh;
+        }
+
+        img {
+            max-width: 100%;
+            border-radius: 50%; /* Bo tròn hình ảnh */
+        }
+
+        button {
+            background-color: #ff69b4; /* Màu hồng */
+            color: white;
+            padding: 0.5em 1em;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            button:hover {
+                background-color: #d46a9e; /* Màu hồng nhạt khi hover */
+            }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Your Name</h1>
+        <p style="color:#ff69b4">My Profile</p>
+    </header>
+
+    <section>
+        <img src="https://placekitten.com/200/200" alt="Profile Picture">
+        <h2>About Me</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit libero ac euismod feugiat. Nullam ut metus vitae urna cursus volutpat.</p>
+        <h2>Contact</h2>
+        <p>Email: your.email@example.com</p>
+        <p>Twitter: <a href="https://twitter.com/your_twitter" target="_blank"></a></p>
+        <button onclick="alert('Hello!')">Say Hello</button>
+    </section>
+
+</body>
+</html>

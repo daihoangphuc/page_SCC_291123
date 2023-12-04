@@ -6,7 +6,9 @@
 }
 @model Cart
 <!-- Cart -->
-<div class="wrap-header-cart js-panel-cart" >
+<!--Khi đăng nhập mới hiển thị các sản phẩm-->
+
+<div class="wrap-header-cart js-panel-cart">
 	<div class="s-full js-hide-cart"></div>
 
 	<div class="header-cart flex-col-l p-l-65 p-r-25">
@@ -71,7 +73,7 @@
 
 
 <!-- breadcrumb -->
-<div class="container" >
+<div class="container">
 	<div class="bread-crumb flex-w p-l-25 p-r-15 p-t-30 p-lr-0-lg">
 		<a href="/" class="stext-109 cl8 hov-cl1 trans-04">
 			Home
@@ -86,7 +88,7 @@
 
 
 <!-- Shoping Cart -->
-<form class="bg0 p-t-75 p-b-85" >
+<form class="bg0 p-t-75 p-b-85">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-10 col-xl-7 m-lr-auto m-b-50">
@@ -230,18 +232,18 @@
 									{
 										if (Model != null && Model.ComputeTotalValues() != null && Model.Lines.Count != 0)
 										{
-											
+
 											return @Model.ComputeTotalValues() + 100000;
-									
+
 
 										}
 										else return 0;
 
-										
+
 									}
 								}
 
-					
+
 								@total().ToString("C", CultureInfo.CreateSpecificCulture("vi-VN")).TrimEnd('₫') VND
 							</span>
 						</div>
@@ -255,3 +257,4 @@
 		</div>
 	</div>
 </form>
+
